@@ -120,6 +120,8 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Tech Pluto - http://www.techpluto.com/submit-a-startup/
 * The Changelog - https://github.com/thechangelog/ping
 * The iPhone Mom - https://www.theiphonemom.com/
+* Palm Reading - https://palm-reading.app/
+
 
 * Vator - http://www.vator.tv/
 * Venture Beat - http://venturebeat.com/news-tips/
